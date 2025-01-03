@@ -1,1 +1,1 @@
-{"date": "2026-01-04T00:00:00", "commit": 8, "message": "fix: handle case-insensitive query matching in retrieval"}
+{"date": "2025-01-04T00:00:00", "commit": 7, "message": "feat: implement Normalized Discounted Cumulative Gain (NDCG)"}
