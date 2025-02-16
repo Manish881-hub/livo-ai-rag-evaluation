@@ -1,1 +1,1 @@
-{"date": "2026-04-19T00:00:00", "commit": 43, "message": "feat: add support for multi-document context in QA pairs"}
+{"date": "2025-02-17T00:00:00", "commit": 42, "message": "fix: resolve config loading issue with missing file"}
