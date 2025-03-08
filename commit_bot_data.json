@@ -1,1 +1,1 @@
-{"date": "2026-04-17T00:00:00", "commit": 11, "message": "security: sanitize user queries to prevent injection"}
+{"date": "2025-03-09T00:00:00", "commit": 10, "message": "feat: include source video metadata with timestamps"}
