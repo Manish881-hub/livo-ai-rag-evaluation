@@ -1,1 +1,1 @@
-{"date": "2025-05-25T00:00:00", "commit": 33, "message": "fix: resolve config loading issue with missing file"}
+{"date": "2025-04-07T00:00:00", "commit": 32, "message": "feat: add confusion matrix visualization for retrieval results"}
