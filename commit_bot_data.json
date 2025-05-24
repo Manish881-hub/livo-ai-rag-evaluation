@@ -1,1 +1,1 @@
-{"date": "2026-01-08T00:00:00", "commit": 34, "message": "fix: handle case-insensitive query matching in retrieval"}
+{"date": "2025-05-25T00:00:00", "commit": 33, "message": "fix: resolve config loading issue with missing file"}
