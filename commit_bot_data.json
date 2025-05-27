@@ -1,1 +1,1 @@
-{"date": "2026-06-09T00:00:00", "commit": 57, "message": "feat: make metric weights configurable via config.yaml"}
+{"date": "2025-05-28T00:00:00", "commit": 56, "message": "feat: add incremental index updates for new documents"}
