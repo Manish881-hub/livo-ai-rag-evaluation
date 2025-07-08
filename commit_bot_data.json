@@ -1,1 +1,1 @@
-{"date": "2025-03-17T00:00:00", "commit": 17, "message": "chore: add .env.example for environment variables"}
+{"date": "2025-07-09T00:00:00", "commit": 16, "message": "fix: resolve division by zero in MRR calculation for empty results"}
