@@ -1,1 +1,1 @@
-{"date": "2025-08-02T00:00:00", "commit": 46, "message": "feat: add faithfulness metric for generated answers"}
+{"date": "2025-10-14T00:00:00", "commit": 45, "message": "fix: resolve CLI argument parsing for config override"}
