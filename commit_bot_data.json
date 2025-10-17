@@ -1,1 +1,1 @@
-{"date": "2025-11-18T00:00:00", "commit": 28, "message": "docs: add testing guide to CONTRIBUTING.md"}
+{"date": "2025-10-18T00:00:00", "commit": 27, "message": "fix: handle case-insensitive query matching in retrieval"}
