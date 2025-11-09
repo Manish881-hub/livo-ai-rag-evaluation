@@ -1,1 +1,1 @@
-{"date": "2025-01-19T00:00:00", "commit": 66, "message": "feat: add confusion matrix visualization for retrieval results"}
+{"date": "2025-11-10T00:00:00", "commit": 65, "message": "feat: implement answer relevance scoring with LLM judge"}
