@@ -1,1 +1,1 @@
-{"date": "2025-04-21T00:00:00", "commit": 39, "message": "chore: remove duplicate QA entries from dataset"}
+{"date": "2025-11-18T00:00:00", "commit": 38, "message": "security: sanitize user queries to prevent injection"}
