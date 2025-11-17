@@ -1,1 +1,1 @@
-{"date": "2025-11-18T00:00:00", "commit": 38, "message": "security: sanitize user queries to prevent injection"}
+{"date": "2025-11-18T00:00:00", "commit": 37, "message": "feat: add difficulty levels (foundational/intermediate/advanced) to QA pairs"}
