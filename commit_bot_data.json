@@ -1,1 +1,1 @@
-{"date": "2025-01-09T00:00:00", "commit": 59, "message": "chore: add results directory to .gitignore"}
+{"date": "2026-01-20T00:00:00", "commit": 58, "message": "feat: implement answer relevance scoring with LLM judge"}
