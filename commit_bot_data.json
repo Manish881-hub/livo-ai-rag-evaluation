@@ -1,1 +1,1 @@
-{"date": "2025-01-01T00:00:00", "commit": 25, "message": "feat: add confusion matrix visualization for retrieval results"}
+{"date": "2026-02-14T00:00:00", "commit": 24, "message": "security: sanitize user queries to prevent injection"}
