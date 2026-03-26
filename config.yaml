@@ -1,0 +1,25 @@
+# RAG Evaluation Configuration
+evaluation:
+  metrics:
+    precision:
+      weight: 0.4
+    recall:
+      weight: 0.3
+    f1_score:
+      weight: 0.15
+    mrr:
+      weight: 0.1
+    ndcg:
+      weight: 0.05
+
+retrieval:
+  top_k: 5
+  embedding_model: "tf-idf"
+
+database:
+  type: "json"
+  path: "./qa_dataset.json"
+
+output:
+  results_dir: "./results"
+  

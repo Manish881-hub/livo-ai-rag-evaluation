@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Golden Dataset for RAG Evaluation",
+    "description": "Neural Networks and Deep Learning QA pairs",
+    "author": "Candidate",
+    "created": "2026-03-26",
+    "assignment": "Livo AI SWE Intern Assessment - Option B",
+    "total_questions": 5
+  },
+  "qa_pairs": [
+    {
+      "id": "qa_001",
+      "question": "What is the purpose of the activation function in a neural network, and why is the sigmoid function commonly used in the output layer for binary classification?",
+      "answer": "The activation function serves the critical purpose of introducing non-linearity into the neural network, enabling it to learn complex patterns that would be impossible with purely linear transformations. Without activation functions, a multi-layer neural network would collapse into a single linear transformation, regardless of its depth. The sigmoid function is particularly useful in the output layer for binary classification because It maps any real-valued input to a value between 0 and 1, which can be interpreted as a probability. This bounded output range makes it natural for representing the confidence that an input belongs to a particular class. Additionally, the sigmoid's smooth, differentiable nature allows for effective gradient-based optimization during backpropagation.",
+      "source": {
+        "video_id": "aircAruvnKk",
+        "video_title": "But what is a Neural Network?",
+        "channel": "3Blue1Brown",
+        "language": "English",
+        "timestamp_start": "12:45",
+        "timestamp_end": "14:30"
+      },
+      "difficulty": "foundational",
+      "topics": ["activation functions", "sigmoid", "neural networks", "binary classification"]
+    },
+    {
+      "id": "qa_002",
+      "question": "How does the attention mechanism in transformers enable the model to understand relationships between words in a sequence, and what are the roles of Query, Key, and Value vectors?",
+      "answer": "The attention mechanism in transformers allows the model to dynamically focus on relevant parts of the input sequence when producing each element of the output. The Query, Key, and Value vectors form the foundation of this mechanism: the Query vector represents what the current position is looking for, the Key vector represents what each position offers, and the Value vector represents the actual information content. The attention score is computed as the dot product between the Query and Key vectors.",
+      "source": {
+        "video_id": "wjZofJX0v4M",
+        "video_title": "Transformers, the tech behind LLMs",
+        "channel": "3Blue1Brown",
+        "language": "English",
+        "timestamp_start": "08:15",
+        "timestamp_end": "12:30"
+      },
+      "difficulty": "advanced",
+      "topics": ["attention mechanism", "transformers", "Query Key Value", "LLMs"]
+    },
+    {
+      "id": "qa_003",
+      "question": "In the context of handwritten digit recognition, how does a neural network process the input image of a digit, and what does each layer learn to recognize?",
+      "answer": "For handwritten digit recognition using the MNIST dataset, each 28x28 pixel grayscale image is flattened into a vector of 784 values. The network contains hidden layers that progressively learn more abstract features: the first hidden layer might recognize edges and strokes; subsequent layers combine these to recognize loops and line intersections; the output layer produces probabilities for each digit class (0-9).",
+      "source": {
+        "video_id": "aircAruvnKk",
+        "video_title": "But what is a Neural Network?",
+        "channel": "3Blue1Brown",
+        "language": "English",
+        "timestamp_start": "03:20",
+        "timestamp_end": "06:45"
+      },
+      "difficulty": "foundational",
+      "topics": ["MNIST", "image processing", "neural network layers", "digit recognition"]
+    },
+    {
+      "id": "qa_004",
+      "question": "What is the fundamental difference between machine learning and deep learning?",
+      "answer": "Traditional machine learning requires manual feature engineering where domain experts design features from raw data. Deep learning automatically learns hierarchical feature representations directly from raw data through its multiple layers. Each layer learns progressively more abstract representations: early layers capture simple patterns, middle layers combine these into complex features, and deeper layers recognize high-level concepts.",
+      "source": {
+        "video_id": "fHF22Wxuyw4",
+        "video_title": "What is Deep Learning?",
+        "channel": "CampusX",
+        "language": "Hindi",
+        "timestamp_start": "05:30",
+        "timestamp_end": "09:15"
+      },
+      "difficulty": "intermediate",
+      "topics": ["machine learning", "deep learning", "feature engineering"]
+    },
+    {
+      "id": "qa_005",
+      "question": "How does self-attention differ from traditional attention mechanisms?",
+      "answer": "Self-attention computes attention weights within a single sequence rather than between two different sequences. Each position attends to all other positions, allowing the model to capture relationships regardless of distance. This solves the long-range dependency problem of RNNs and enables parallel processing of all positions simultaneously.",
+      "source": {
+        "video_id": "wjZofJX0v4M",
+        "video_title": "Transformers, the tech behind LLMs",
+        "channel": "3Blue1Brown",
+        "language": "English",
+        "timestamp_start": "15:00",
+        "timestamp_end": "18:45"
+      },
+      "difficulty": "advanced",
+      "topics": ["self-attention", "transformers", "language modeling"]
+    }
+  ]
+}
