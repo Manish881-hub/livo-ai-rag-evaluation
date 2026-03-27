@@ -124,10 +124,10 @@ Edit `config.yaml` to customize:
 
 ## Contact
 
-**Name**: [Your Name]  
-**Email**: [Your Email]  
-**LinkedIn**: [Your LinkedIn Profile URL]  
-**GitHub**: [Your GitHub Profile URL]
+**Name**: Manish Bhakti Sagar
+**Email**: manishbhakti881@gmail.com
+**LinkedIn**: [https://www.linkedin.com/in/manish-bhakti-sagar-823404234/]  
+**GitHub**: [https://github.com/Manish881-hub]
 
 ---
 
