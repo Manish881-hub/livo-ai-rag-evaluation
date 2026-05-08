@@ -1,1 +1,1 @@
-{"date": "2025-07-09T00:00:00", "commit": 16, "message": "fix: resolve division by zero in MRR calculation for empty results"}
+{"date": "2026-05-09T00:00:00", "commit": 15, "message": "test: add unit tests for all evaluation metrics"}
