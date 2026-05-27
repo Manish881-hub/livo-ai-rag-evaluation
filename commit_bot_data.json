@@ -1,1 +1,1 @@
-{"date": "2025-11-10T00:00:00", "commit": 65, "message": "feat: implement answer relevance scoring with LLM judge"}
+{"date": "2026-05-28T00:00:00", "commit": 64, "message": "feat: implement bootstrap confidence intervals for metrics"}
