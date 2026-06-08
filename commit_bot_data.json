@@ -1,1 +1,1 @@
-{"date": "2026-01-20T00:00:00", "commit": 58, "message": "feat: implement answer relevance scoring with LLM judge"}
+{"date": "2026-06-09T00:00:00", "commit": 57, "message": "feat: make metric weights configurable via config.yaml"}
